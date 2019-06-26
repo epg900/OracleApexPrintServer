@@ -1,6 +1,4 @@
-T
-
-his is a brief php project that give you an idea to start your own print server
+This is a brief php project that give you an idea to start your own print server
 
 
 when oracle apex report classic report send print to print server it send multy POST parameter
